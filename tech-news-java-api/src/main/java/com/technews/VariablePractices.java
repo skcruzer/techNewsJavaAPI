@@ -15,7 +15,7 @@ public class VariablePractices {
 //      value of sum is 10.5
         System.out.println(sum);
 
-//      value of concat is "7dog"
+//      value of concat is "7dog" and i just need to push this to github
         System.out.println(concat);
     }
 }

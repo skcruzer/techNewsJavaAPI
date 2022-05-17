@@ -112,7 +112,6 @@ public class User implements Serializable {
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-//        if there is an issue, go back and refer to this if statement below from lesson 2, about just past halfway through lesson
         if (!(o instanceof User)) return false;
         User user = (User) o;
         return isLoggedIn() == user.isLoggedIn() &&

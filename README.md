@@ -19,7 +19,7 @@
 <p> This application requires a local <code>MySQL</code> server. To install, simply clone this repo to your local device by running the command <code>git clone https://github.com/skcruzer/techNewsJavaAPI.git</code>. </p>
 
 ## <h3 id='usage'>Usage</h3>
-<p> This application is currently deployed on Heroku, you can access by clicking on the following link: <a href='https://technews-java-api.herokuapp.com/'target='_blank'>Just Tech News</a>. Sign up so you can can contribute your Tech News findings. </p>
+<p> This application is currently deployed on Heroku, you can access by clicking on the following link: <a href='https://technews-java-api.herokuapp.com/'target='_blank'>Just Tech News</a>. Sign up so you can contribute your Tech News findings. </p>
 
 ## <h3 id='contribution'>Contributing</h3>
 <p> Functionalities and styling are still being added to this application. If you would like to contribute or provide any feedback, please contact me. You can find my contact information below in the <a href='#questions'>Questions</a> section. </p>
